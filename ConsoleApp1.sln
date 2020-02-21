@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LEILAO", "ConsoleApp1\LEILAO.csproj", "{E09C8496-56CF-4644-A280-A8BEE1A70F50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D0FE4AA4-8C3C-4674-8FFD-B0F9FD3300D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09C8496-56CF-4644-A280-A8BEE1A70F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09C8496-56CF-4644-A280-A8BEE1A70F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09C8496-56CF-4644-A280-A8BEE1A70F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09C8496-56CF-4644-A280-A8BEE1A70F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D552BEA-34D4-4573-B813-DF23CEEF602F}
+	EndGlobalSection
+EndGlobal
